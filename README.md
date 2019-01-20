@@ -71,7 +71,7 @@ sudo apt-get install pkg-config zip g++ zlib1g-dev unzip python
 wget https://github.com/bazelbuild/bazel/releases/download/0.5.4/bazel-0.5.4-installer-linux-x86_64.sh  
 ./bazel-0.5.4-installer-linux-x86_64.sh.(Maybe you need to add sudo for root permission. sudo ./bazel-0.5.4-installer-linux-x86_64.sh)  
 ### Clone Tensorflow.  
-wget https://github.com/tensorflow/tensorflow/archive/v1.5.0.tar.gz
+wget https://github.com/tensorflow/tensorflow/archive/v1.5.0.tar.gz  
 tar -zxf v1.5.0.tar.gz
 ### Build Tensorflow  
  cd tensorflow-1.5.0 && ./configure  
