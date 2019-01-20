@@ -60,7 +60,7 @@ Example:
 The Video output can be found [Here]( https://github.com/apreddyy/LaneandYolovehicle-Detection/blob/master/out.avi).  
 ## Dependencies and Compiling.
 ### Environment Linux (Ubuntu 16.04 LTS).  
-1-	CUDA 9.0. For Windows installation Guide and Requirements [Here](https://docs.nvidia.com/cuda/cuda-installation-guide-linux/index.html).     
+1-	CUDA 9.0. For Linux installation Guide and Requirements [Here](https://docs.nvidia.com/cuda/cuda-installation-guide-linux/index.html).     
 2-	Tensorflow 1.5.0. For Building a static Tensorflow C++ library on Linux [Section](#tensorflow-static-build).    
 3-	OpenCV 3.4 or Greater. More information can be found [Here](http://leadtosilverlining.blogspot.com/2018/09/build-opencv-341-with-cuda-90-support.html).    
 4-	Tensorflow trained model (graph-vehicledetection.pb) is included in repository.    
