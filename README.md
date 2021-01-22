@@ -79,6 +79,4 @@ tar -zxf v1.5.0.tar.gz
  ./tensorflow/contrib/makefile/download_dependencies.sh.  
 ### Compiling.
  Run ./buildlane.sh.
-
-# For Windows Version [Here](https://github.com/apreddyy/LaneandYolovehicle-Detection)
 # Thanks
