@@ -79,4 +79,6 @@ tar -zxf v1.5.0.tar.gz
  ./tensorflow/contrib/makefile/download_dependencies.sh.  
 ### Compiling.
  Run ./buildlane.sh.
+ 
+ # For Windows version Pytorch YOLO5s and trained with 24 classes Version Click [Here](https://github.com/apreddyy/LaneandYolovehicle-Detection)  
 # Thanks
